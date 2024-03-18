@@ -1,0 +1,10 @@
+
+?- 
+% c:/Users/DELL agri/Desktop/artifical/student teacher sub code.pl compiled 0.00 sec, 19 clauses
+?- teaches(X,Y).
+X = prof_smith,
+Y = math ;
+X = prof_jones,
+Y = physics ;
+X = prof_doe,
+Y = chemistry.
